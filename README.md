@@ -90,6 +90,10 @@ An extension that brings a missing feature to Chromium: **open/clone the current
 A script that **downloads videos from Telegram channels** and **uploads them to YouTube** as unlisted, adding them to a playlist.  
 > Automates the transfer of Telegram content to a structured YouTube archive.
 
+##### 📝 [YouTube Transcript Extractor](https://github.com/yiApollo/YouTube-Transcript-Extractor-Auto-Whisper-Fallback)  
+Extracts **full transcripts from YouTube videos or playlists**, using the YouTube API when available and falling back to Whisper AI.  
+> Designed to help you **summarize entire courses or playlists** by generating clean Markdown files for
+
 
 ---
 
