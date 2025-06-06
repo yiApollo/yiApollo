@@ -108,9 +108,10 @@ Extracts **full transcripts from YouTube videos or playlists**, using the YouTub
   <img 
     alt="Top Langs" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiApollo&theme=ayu-mirage&layout=compact&custom_title=Technologies&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiApollo&layout=compact&exclude_repo=Gictorbit.github.io&theme=ayu-mirage&border_color=2e3440&card_width=250" 
   />
 </p>
+
 
 
 ---
