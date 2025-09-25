@@ -39,10 +39,6 @@ I still have **a lot to learn**, but I'm always finding ways to solve real probl
 Projects focused on **solving real-world problems**.  
 Feel free to explore, use, or contribute.
 
-##### 💧 [Water Intake Tracking](https://github.com/yiApollo/Water-Intake-Tracking)  
-A simple **web app to track daily water intake**, focused on health habits and hydration awareness.  
-> Built to practice **full-stack development** and integrate daily wellness into code.
-
 ##### 🔄 [Tab to Window – Chromium](https://github.com/yiApollo/tab-to-window-chromium)  
 An extension that brings a missing feature to Chromium: **open/clone the current tab in a new window**.  
 > It’s a feature I use a lot in Firefox, but since I prefer Chromium—and it didn’t have it—**I built it myself.**
